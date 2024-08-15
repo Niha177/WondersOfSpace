@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Niha177.github.io.WondersOfSpace/sitemap.xml
